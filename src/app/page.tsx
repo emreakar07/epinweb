@@ -7,7 +7,6 @@ import {
   Zap,
   Shield,
   MessageCircle,
-  ChevronRight,
   Package,
   Gift,
   Clock,
@@ -350,7 +349,7 @@ export default function LandingPage() {
                   <CardContent className="p-6 flex flex-col items-center text-center">
                     <Clock className="h-10 w-10 text-primary mb-4" />
                     <h3 className="text-xl font-bold mb-2">Track Orders Anytime</h3>
-                    <p className="text-muted-foreground">View all past & ongoing orders in "My Orders" menu.</p>
+                    <p className="text-muted-foreground">View all past & ongoing orders in &quot;My Orders&quot; menu.</p>
                   </CardContent>
                 </Card>
                 <Card className="bg-background shadow-sm">
